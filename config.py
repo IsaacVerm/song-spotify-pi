@@ -1,0 +1,5 @@
+CLIENT_ID = 'f8484dbf6f3543cf9bceba7a59709cb8'
+CLIENT_SECRET = '596da43e1309493a92bd67aa94c0e2b5'
+USERNAME = 'isaacinator'
+SCOPE = 'user-read-currently-playing'
+REDIRECT_URI = 'http://localhost:8888/callback/'
