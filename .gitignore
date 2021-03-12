@@ -3,3 +3,4 @@ __pycache__
 .cache-isaacinator
 *.pyc
 notes.md
+.DS_Store
